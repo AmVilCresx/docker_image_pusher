@@ -1,1 +1,1 @@
-lewinc/activemq:6
+lewinc/activemq:6.1
