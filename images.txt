@@ -1,2 +1,3 @@
 lewinc/activemq:6.1
 neo4j:3.5.35-community
+redis:5.0.9
