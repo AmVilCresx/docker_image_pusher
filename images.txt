@@ -3,3 +3,4 @@ neo4j:3.5.35-community
 redis:5.0.9
 rabbitmq:3.13.7-management-alpine
 openjdk:17.0.1
+nginx:1.27.3-alpine
