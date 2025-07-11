@@ -1,7 +1,17 @@
 lewinc/activemq:6.1
 neo4j:3.5.35-community
+neo4j:5.26.8-community
 redis:5.0.9
 rabbitmq:3.13.7-management-alpine
 openjdk:17.0.1
 nginx:1.27.3-alpine
 redislabs/redisearch:2.8.6
+zookeeper:3.9.3
+apache/rocketmq:5.3.3
+apache/kafka:3.9.1
+provectuslabs/kafka-ui:v0.7.2
+mysql:8.4.5
+mysql:5.7.44
+opengauss/opengauss:7.0.0-RC2.B005-openEuler20.03
+mongo:8.0.11
+mongo:7.0.21
