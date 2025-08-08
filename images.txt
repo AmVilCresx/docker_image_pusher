@@ -1,5 +1,6 @@
 lewinc/activemq:6.1
 neo4j:3.5.35-community
+neo4j:4.4.44-community
 neo4j:5.26.8-community
 redis:5.0.9
 rabbitmq:3.13.7-management-alpine
