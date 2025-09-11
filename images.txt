@@ -25,3 +25,4 @@ postgres:16.9
 postgres:15.13
 postgres:14.18
 onlyoffice/documentserver:8.3.3
+rustfs/rustfs:latest
