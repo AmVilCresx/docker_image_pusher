@@ -27,3 +27,4 @@ postgres:14.18
 onlyoffice/documentserver:8.3.3
 rustfs/rustfs:latest
 linyq1/narratoai:latest
+node:18-alpine
