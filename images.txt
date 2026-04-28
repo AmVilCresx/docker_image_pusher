@@ -1,11 +1,1 @@
-prom/node-exporter:v1.7.0
-percona/mongodb_exporter:0.41.0
-oliver006/redis_exporter:v1.60.0
-prometheuscommunity/elasticsearch-exporter:v1.6.0
-prom/blackbox-exporter:v0.25.0
-prom/alertmanager:v0.28.0
-prom/prometheus:v2.52.0
-grafana/grafana:11.0.0
-portainer/portainer-ce:2.24.0
-minio/minio:RELEASE.2025-04-22T22-12-26Z
-nginx:1.25
+python:3.11-slim
