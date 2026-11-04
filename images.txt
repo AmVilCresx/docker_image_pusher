@@ -1,1 +1,1 @@
---platform=linux/arm64  python:3.11-bookworm
+gitea/gitea:28.3.0-rootless
