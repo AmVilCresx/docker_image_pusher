@@ -1,1 +1,1 @@
-gitea/gitea:28.3.0-rootless
+busybox:1.36
