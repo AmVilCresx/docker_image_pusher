@@ -1,1 +1,1 @@
-bestwu/wechat:latest
+ricwang/docker-wechat:latest
